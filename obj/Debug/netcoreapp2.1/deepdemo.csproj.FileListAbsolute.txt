@@ -1,0 +1,67 @@
+/home/ubuntu/deepdemo/bin/Debug/netcoreapp2.1/deepdemo.deps.json
+/home/ubuntu/deepdemo/bin/Debug/netcoreapp2.1/deepdemo.runtimeconfig.json
+/home/ubuntu/deepdemo/bin/Debug/netcoreapp2.1/deepdemo.runtimeconfig.dev.json
+/home/ubuntu/deepdemo/bin/Debug/netcoreapp2.1/deepdemo.dll
+/home/ubuntu/deepdemo/bin/Debug/netcoreapp2.1/deepdemo.pdb
+/home/ubuntu/deepdemo/bin/Debug/netcoreapp2.1/deepdemo.Views.dll
+/home/ubuntu/deepdemo/bin/Debug/netcoreapp2.1/deepdemo.Views.pdb
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/deepdemo.csprojAssemblyReference.cache
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/deepdemo.csproj.CoreCompileInputs.cache
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/deepdemo.RazorAssemblyInfo.cache
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/deepdemo.RazorAssemblyInfo.cs
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/deepdemo.AssemblyInfoInputs.cache
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/deepdemo.AssemblyInfo.cs
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/deepdemo.TagHelpers.input.cache
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/deepdemo.TagHelpers.output.cache
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/deepdemo.RazorCoreGenerate.cache
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/deepdemo.RazorTargetAssemblyInfo.cache
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/deepdemo.RazorTargetAssemblyInfo.cs
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/deepdemo.Views.pdb
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/deepdemo.dll
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/deepdemo.pdb
+/home/ubuntu/deepdemo/obj/Debug/netcoreapp2.1/deepdemo.csproj.CopyComplete
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\bin\Debug\netcoreapp2.1\deepdemo.deps.json
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\bin\Debug\netcoreapp2.1\deepdemo.runtimeconfig.json
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\bin\Debug\netcoreapp2.1\web.config
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\bin\Debug\netcoreapp2.1\deepdemo.runtimeconfig.dev.json
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\bin\Debug\netcoreapp2.1\deepdemo.dll
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\bin\Debug\netcoreapp2.1\deepdemo.pdb
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\bin\Debug\netcoreapp2.1\deepdemo.Views.dll
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\bin\Debug\netcoreapp2.1\deepdemo.Views.pdb
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\deepdemo.csprojAssemblyReference.cache
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\deepdemo.RazorAssemblyInfo.cache
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\deepdemo.RazorAssemblyInfo.cs
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\deepdemo.AssemblyInfoInputs.cache
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\deepdemo.AssemblyInfo.cs
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\deepdemo.TagHelpers.input.cache
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\deepdemo.TagHelpers.output.cache
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\deepdemo.RazorCoreGenerate.cache
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\deepdemo.RazorTargetAssemblyInfo.cache
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\deepdemo.RazorTargetAssemblyInfo.cs
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\deepdemo.Views.pdb
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\deepdemo.dll
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\deepdemo.pdb
+C:\Users\Dibyendu Sarkar\Desktop\GG-TTest\gg-ttest\obj\Debug\netcoreapp2.1\deepdemo.csproj.CopyComplete
